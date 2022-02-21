@@ -1,0 +1,11 @@
+C:\Users\Nember\Desktop\trpo\prac\SeaWar_Efremov\SeaWar_Efremov\bin\Debug\SeaWar_Efremov.exe.config
+C:\Users\Nember\Desktop\trpo\prac\SeaWar_Efremov\SeaWar_Efremov\bin\Debug\SeaWar_Efremov.exe
+C:\Users\Nember\Desktop\trpo\prac\SeaWar_Efremov\SeaWar_Efremov\bin\Debug\SeaWar_Efremov.pdb
+C:\Users\Nember\Desktop\trpo\prac\SeaWar_Efremov\SeaWar_Efremov\obj\Debug\SeaWar_Efremov.csproj.AssemblyReference.cache
+C:\Users\Nember\Desktop\trpo\prac\SeaWar_Efremov\SeaWar_Efremov\obj\Debug\SeaWar_Efremov.csproj.SuggestedBindingRedirects.cache
+C:\Users\Nember\Desktop\trpo\prac\SeaWar_Efremov\SeaWar_Efremov\obj\Debug\SeaWar_Efremov.Form1.resources
+C:\Users\Nember\Desktop\trpo\prac\SeaWar_Efremov\SeaWar_Efremov\obj\Debug\SeaWar_Efremov.Properties.Resources.resources
+C:\Users\Nember\Desktop\trpo\prac\SeaWar_Efremov\SeaWar_Efremov\obj\Debug\SeaWar_Efremov.csproj.GenerateResource.cache
+C:\Users\Nember\Desktop\trpo\prac\SeaWar_Efremov\SeaWar_Efremov\obj\Debug\SeaWar_Efremov.csproj.CoreCompileInputs.cache
+C:\Users\Nember\Desktop\trpo\prac\SeaWar_Efremov\SeaWar_Efremov\obj\Debug\SeaWar_Efremov.exe
+C:\Users\Nember\Desktop\trpo\prac\SeaWar_Efremov\SeaWar_Efremov\obj\Debug\SeaWar_Efremov.pdb
